@@ -1,0 +1,1 @@
+model1.h5: Only contain the data from track1, 3 clock-wise and 3 counter clock-wise.

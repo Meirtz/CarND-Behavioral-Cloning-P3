@@ -2,4 +2,5 @@ data/*
 linux_sim/*
 examples/*
 .ipynb_checkpoints/*
-
+new_data/*
+data_bak/*
