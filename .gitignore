@@ -1,6 +1,13 @@
 data/*
+data_bak/*
+new_data/*
+new_data_t1_2/*
+new_data_t2/*
+run1/*
 linux_sim/*
 examples/*
 .ipynb_checkpoints/*
 new_data/*
 data_bak/*
+models/*
+
